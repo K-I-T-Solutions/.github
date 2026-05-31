@@ -72,7 +72,7 @@ Die GitHub-Organisation ist jetzt wieder naeher am lokalen Projektstamm:
 
 - `kitmunicator`, `workmate-event` und `kit-website-rebranding` sind inzwischen auch remote angelegt
 - die Profil-README orientiert sich an der oeffentlichen Website und an den tatsaechlich vorhandenen Repositories
-- eine genauere lokale Einordnung liegt in [REPOSITORY_OVERVIEW.md](./REPOSITORY_OVERVIEW.md)
+- eine genauere lokale Einordnung liegt in [../REPOSITORY_OVERVIEW.md](../REPOSITORY_OVERVIEW.md)
 
 ## Kontakt
 
